@@ -147,7 +147,7 @@ $(function () {
         }, 1000);
     });
 	
-	/* Contact-form
+	/* Kontaktai-form
 	-- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- -- */
 	$.validator.setDefaults( {
 		submitHandler: function () {
