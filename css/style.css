@@ -178,7 +178,7 @@ img {
 .lead {
      font-size: 18px;
      line-height: 30px;
-     color: #767676;
+     color: #232222;
      margin: 0;
      padding: 0;
 }
@@ -228,7 +228,7 @@ button {
 }
 .bg-light {
     background-color: #ef5051!important;
-    height: 130px;
+    height: 70px;
 }
 .navbar-light .navbar-nav .nav-link:focus, .navbar-light .navbar-nav .nav-link:hover {
     color: #000;
@@ -573,7 +573,7 @@ input.mail_text::placeholder {
     font-size: 40px;
     color: #0a0707;
     font-weight: bold;
-    padding-top: 120px; 
+    padding-top: 40px;
 }
 .content_text{
     width: 70%;

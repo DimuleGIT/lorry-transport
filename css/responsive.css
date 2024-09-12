@@ -251,13 +251,14 @@ right: -221px;
 .bg_6 {  height: 380px; margin-top: 30px; padding: 55px 15px 41px 130px; width: 130%; float: right; }
 .mail_section { width: 69%; margin-top: 0px; padding-left: 0px; } 
 .Subscribe_text a { width: 150px; }
-.contact_text { padding-top: 71px; font-size: 30px; }
+.contact_text { padding-top: 20px; font-size: 30px; }
 .services_text { padding-top: 42px; }
 .contact_section { padding-bottom: 90px; }
 .read_bt { display: none; }
 .carousel-control-prev { left: 135px; }
 .carousel-control-next { right: 135px; }
 .padding_left10 { padding-left: 85px; }
+.padding_left5 { padding-left: 100px; }
 
 
 
